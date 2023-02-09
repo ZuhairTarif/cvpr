@@ -10,3 +10,5 @@ Computer Vision and Pattern Recognition are two important subfields of Artificia
 * Pattern recognition applications of deep learning include image classification, speech recognition, and natural language processing (NLP). In image classification, a deep learning model is trained to identify the class label of an input image, such as "dog", "cat", or "car". In speech recognition, the model transcribes spoken words into text, while in NLP the model performs tasks such as sentiment analysis, machine translation, and text generation.
 
 * Overall, deep learning has proven to be a powerful tool for computer vision and pattern recognition tasks, delivering state-of-the-art results on a variety of benchmarks and real-world applications.
+
+<img src = "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-020-00376-2/MediaObjects/41746_2020_376_Fig1_HTML.png">
